@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENV AUTOHER="Tetsuya Oba"
+ENV AUTHOR="Tetsuya Oba"
 
